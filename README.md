@@ -21,10 +21,11 @@ R Script Steps:
      train/X_train.txt: Training data rows with the feature measurements.
      train/y_train.txt: Training activity rows
      train/subject_train.txt: Subject ID rows from training data
-     
+          
  3) Retain only the "mean" and "std" deviation features from the merged dataset
  4) Further clean up to the merged data set so that the labels the data set have descriptive variable names
  5) Create a second, independent tidy data set(tidy_uic_har.csv) with the average of each variable for each activity and each subject
+ 
 
 
 
